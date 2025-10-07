@@ -6,6 +6,8 @@ Eu sou o Gutherri Neres, sou um programador Front End, atualmente estou aprenden
 - <img src="https://img.shields.io/badge/CSS-663399.svg?style=for-the-badge&logo=CSS&logoColor=white" alt="css-logo">
 - <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" alt="javascript-logo">
 <br>
+<br>
+<br>
 Minhas Redes Sociais: <br>
 <a href="https://www.facebook.com/gutierres.neres?locale=pt_BR"><img src="https://img.shields.io/badge/Facebook-0866FF.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="facebook-logo"</a>
 <a href="https://www.instagram.com/gutierresneres/"> <img src="https://img.shields.io/badge/Instagram-FF0069.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="instagram-logo">
